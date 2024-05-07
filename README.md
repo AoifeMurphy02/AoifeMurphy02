@@ -15,7 +15,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 <p>🎓 :computer: Second year student pursuing an Honours degree in Computing with a specialization in Software Development at <a href="https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/visual-and-human-centred-computing/bsc-(hons)-in-computing-in-software-development.html">DkIT</a></p>
-<p align="center">
+<p >
+  <p>📫 How to reach me:</p>
   <a href="https://www.linkedin.com/in/aoifemurphy02" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -26,14 +27,15 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=AoifeMurphy02.visitor-badge&title=Visits" alt="Visits"/>
   </a>
 </p>
+<div align="center">
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AoifeMurphy02"><img src="https://github-readme-stats.vercel.app/api?username=AoifeMurphy02&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AoifeMurphy02 GitHub stats" /></a>
+<a align="center" href="http://www.github.com/AoifeMurphy02"><img src="https://github-readme-stats.vercel.app/api?username=AoifeMurphy02&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AoifeMurphy02 GitHub stats" /></a>
 
-<a href="http://www.github.com/AoifeMurphy02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AoifeMurphy02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a  align="center" href="http://www.github.com/AoifeMurphy02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AoifeMurphy02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AoifeMurphy02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoifeMurphy02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a  align="center" href="https://github.com/AoifeMurphy02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoifeMurphy02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 <!--
 **AoifeMurphy02/AoifeMurphy02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
