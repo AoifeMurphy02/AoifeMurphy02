@@ -1,4 +1,14 @@
 ### Hi there I am Aoife 👋
+ <a href="https://visitor-badge.laobi.icu/badge?page_id=AoifeMurphy02.visitor-badge&title=Visits">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AoifeMurphy02.visitor-badge&title=Visits" alt="Visits"/>
+  </a>
+  <a href="https://github.com/AoifeMurphy02">
+    <img src="https://img.shields.io/github/followers/AoifeMurphy02?label=Followers&style=social" alt="GitHub Followers">
+</a>
+<a href="https://github.com/AoifeMurphy02">
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAoifeMurphy02%26type%3Djson" alt="Total Contributions">
+</a>
+
 <p>🎓 :computer: Second year student pursuing an Honours degree in Computing with a specialization in Software Development at <a href="https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/visual-and-human-centred-computing/bsc-(hons)-in-computing-in-software-development.html">DkIT</a></p>
 <p >
   <p>📫 How to reach me:</p>
@@ -8,9 +18,11 @@
   <a href="mailto:aoifemurphy2019@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=AoifeMurphy02.visitor-badge&title=Visits">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=AoifeMurphy02.visitor-badge&title=Visits" alt="Visits"/>
-  </a>
+ 
+
+
+
+ 
 </p>
 <p>
   
