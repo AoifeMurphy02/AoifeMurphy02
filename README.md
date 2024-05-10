@@ -1,4 +1,4 @@
-### Hi there I am Aoife 👋
+### ✨Hi there I am Aoife 👋 (She/Her)
  <a href="https://visitor-badge.laobi.icu/badge?page_id=AoifeMurphy02.visitor-badge&title=Visits">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=AoifeMurphy02.visitor-badge&title=Visits" alt="Visits"/>
   </a>
@@ -6,20 +6,16 @@
     <img src="https://img.shields.io/github/followers/AoifeMurphy02?label=Followers&style=social" alt="GitHub Followers">
 </a>
 
-<p>🎓 :computer: Second year student pursuing an Honours degree in Computing with a specialization in Software Development at <a href="https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/visual-and-human-centred-computing/bsc-(hons)-in-computing-in-software-development.html">DkIT</a></p>
+<p>🎓 :computer: Second year student pursuing an Honours degree in Computing with a specialization in Software Development at <a href="https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/visual-and-human-centred-computing/bsc-(hons)-in-computing-in-software-development.html">dkit</a></p>
 <p >
   <p>📫 How to reach me:</p>
   <a href="https://www.linkedin.com/in/aoifemurphy02" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:aoifemurphy2019@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
- 
+ <a href="mailto:aoifemurphy2019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aoifemurphy2019%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email to Aoife Murphy">
+</a>
 
-
-
- 
 </p>
 <p>
   
@@ -57,7 +53,6 @@
 </div>
 
 <div align="center">
-<b>My GitHub Stats</b>
 
 [![AoifeMurphy02 GitHub stats](https://github-readme-stats.vercel.app/api?username=AoifeMurphy02&show_icons=true&hide=stars,issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](http://www.github.com/AoifeMurphy02)
 
