@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/followers/AoifeMurphy02?label=Followers&style=social" alt="GitHub Followers">
 </a>
 
-<p>🎓 :computer: Second year student pursuing an Honours degree in Computing with a specialization in Software Development at <a href="https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/visual-and-human-centred-computing/bsc-(hons)-in-computing-in-software-development.html">dkit</a></p>
+<p>🎓 :computer: Third year student pursuing an Honours degree in Computing with a specialization in Software Development at <a href="https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/visual-and-human-centred-computing/bsc-(hons)-in-computing-in-software-development.html">dkit</a></p>
 <p >
   <p>📫 How to reach me:</p>
   <a href="https://www.linkedin.com/in/aoifemurphy02" target="_blank">
